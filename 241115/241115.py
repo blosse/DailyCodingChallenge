@@ -13,7 +13,7 @@ def solution (nums: list[int], k: int) -> bool:
                 return True
     return False
 
-# Test cases
+# Test case
 case1 = [10, 15, 3, 7]
 k1 = 17 # True
 case2 = [17, 5, 39, 700000000000003333333]
